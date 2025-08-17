@@ -1,7 +1,7 @@
 # Aayush  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Numbers%20back%20my%20academics%2C-logic%20drives%20my%20code.-36BCF7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Numbers+back+my+academics;Logic+drives+my+code;Strong+in+fundamentals%2C+open+to+new+things" />
 </p>  
 
 ---
@@ -16,7 +16,7 @@
 
 ## 💻 Tech & Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,pygame,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,pygame,vscode" />
 </p>
 
 ---
@@ -33,9 +33,3 @@
   - Real-time chat rooms  
 
 </details>
-
----
-
-<p align="center">
-  <i>Strong in fundamentals, open to everything new.</i>
-</p>
