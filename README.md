@@ -1,14 +1,14 @@
 # Aayush  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=700&lines=Numbers+back+my+academics&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=700&lines=Numbers+back+my+academics&repeat=false" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=700&lines=Logic+drives+my+code&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=700&lines=Logic+drives+my+code&repeat=false" />
 </p>
 
 ---
 
-## 📊 Academics
+## 📊 Academics (CBSE)
 | Exam       | Year | Score |
 |:-----------|:----:|------:|
 | Class XII  | 2025 | **97.6%** (100 Chemistry, 98 Physics, 98 Math) |
@@ -18,7 +18,7 @@
 
 ## 💻 Tech & Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,pygame,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,pygame" />
 </p>
 
 ---
