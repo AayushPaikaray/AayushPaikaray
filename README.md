@@ -1,8 +1,8 @@
 # Aayush  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Numbers+back+my+academics%2C+logic+drives+my+code.;Strong+in+fundamentals%2C+open+to+everything+new." />
-</p>
+  <img src="https://img.shields.io/badge/Numbers%20back%20my%20academics%2C-logic%20drives%20my%20code.-36BCF7?style=for-the-badge&logo=python&logoColor=white" />
+</p>  
 
 ---
 
@@ -36,12 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="180" />
+  <i>Strong in fundamentals, open to everything new.</i>
 </p>
