@@ -1,9 +1,9 @@
 # Aayush  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Numbers+back+my+academics&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=700&lines=Numbers+back+my+academics&repeat=false" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Logic+drives+my+code&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=700&lines=Logic+drives+my+code&repeat=false" />
 </p>
 
 ---
