@@ -1,7 +1,7 @@
 # Aayush  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Numbers+back+my+academics;Logic+drives+my+code;Strong+in+fundamentals%2C+open+to+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Numbers+back+my+academics;Logic+drives+my+code&pause=1000&repeat=false" />
 </p>  
 
 ---
