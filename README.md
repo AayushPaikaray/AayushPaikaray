@@ -1,65 +1,54 @@
-# Hi, I'm Aayush Paikaray 👋
+# Hey, I'm Aayush 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=700&lines=Mathematics+%26+Computing+%40+IIT+Patna;Python+%7C+C%2B%2B+%7C+C;Competitive+Programming;Building+Projects+%26+Solving+Problems" />
-</p>
+🎓 **Mathematics & Computing @ IIT Patna**
+💻 Python • C++ • C • DSA • Competitive Programming
 
-🎓 I'm currently pursuing **B.Tech in Mathematics & Computing at IIT Patna**, with a strong interest in computer science, mathematics, and technology. I enjoy learning new concepts and turning them into things I can actually build.
+I like building things, solving problems, and figuring out how stuff works.
 
-💻 I'm a budding developer who started coding early in school. I’ve primarily worked with **Python** and am currently expanding my skills in **C++ and competitive programming**.
-
-🎨 Besides tech, I'm also a professional **acrylic painter**, and I've designed **school magazines** that reached over **500 to 1000 readers** — blending creativity with structure is a big part of how I approach things.
+Currently learning **Data Structures & Algorithms** and getting deeper into **C++ & Competitive Programming**.
 
 ---
 
-## 🎓 Education
+## 🚀 What I'm Working On
 
-- **Indian Institute of Technology, Patna** — B.Tech in **Mathematics & Computing**
-- **JEE Advanced:** AIR 5253
-- **CBSE Class X:** 97.6%
-- **CBSE Class XII:** 97.6%
-- **MPC:** 98.67%
+* 🧩 Competitive Programming & DSA
+* 🐍 Python projects
+* ⚡ C++ problem solving
+* 🛠️ Building small tools and projects that solve actual problems
+
+### 🎮 Pyverse
+
+A game-sharing platform I built for students to **upload, share, and play Python games**.
+
+**Built with:**
+`Python` `Tkinter` `Socket Programming` `subprocess` `shutil` `File Handling`
+
+Features include:
+
+* 🎮 One-click game launching
+* 📤 Project uploads
+* 💬 Chat & feedback
+* 📁 Local project management
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 💻 Tech
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode,canva" />
 </p>
 
-- **Languages:** Python, C++ (basics), C
-- **Currently exploring:** Data Structures & Algorithms, Competitive Programming
-- **Tools:** Git, GitHub, VS Code
-- **Design:** Canva
-
----
-
-## 🚀 Projects
-
-### 🎮 Pyverse — *A Game-Sharing Platform for Students*
-
-**Pyverse** is a platform I built to help my classmates **upload, share, and play each other's Python games and projects** easily. It solved a real classroom need and made project sharing way more fun and interactive.
-
-#### 🛠️ Key Features
-
-- 🎮 One-click game launcher using Python `subprocess`
-- 📤 Upload section to share your own projects
-- 💬 Chat system to connect and give feedback
-
-#### ⚙️ Tech Stack
-
-`Python` · `Tkinter` · `shutil` · `subprocess` · `Socket Programming` · `File Handling`
+**Languages:** Python · C++ · C
+**Learning:** DSA · Competitive Programming
+**Tools:** Git · GitHub · VS Code
 
 ---
 
 ## 🧩 Competitive Programming
 
-<p>
-  <a href="https://codeforces.com/profile/Aayush_Paikaray">
-    <img src="https://img.shields.io/badge/Codeforces-Aayush__Paikaray-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+<a href="https://codeforces.com/profile/Aayush_Paikaray">
+  <img src="https://img.shields.io/badge/Codeforces-Aayush__Paikaray-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 
 <p>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Aayush_Paikaray&theme=dark" />
@@ -67,7 +56,7 @@
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AayushPaikaray&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -75,24 +64,16 @@
 
 ---
 
-## 🎨 Beyond Tech
+## 🎨 Outside Code
 
-- 🖌️ **Acrylic Painting**
-- 📖 **Magazine Design**
-- 💻 **Programming & Problem Solving**
-- 🧩 **Competitive Programming**
+When I'm not coding, you'll probably find me **painting or designing**.
 
-I've designed school magazines that reached **500–1000+ readers**, combining visual design with structured content.
-
----
-
-## 📫 Get in Touch
-
-- 📧 **Email:** [aayushpaikaray@gmail.com](mailto:aayushpaikaray@gmail.com)
-- 🎨 **Canva Magazine:** [Sai Chandana](https://www.canva.com/design/DAGXA4VMPCQ/kizZMjcHP2jYuODiKT8JCQ/edit)
+🖌️ Acrylic Painting
+🎨 Magazine Design
+🧩 Problem Solving
 
 ---
 
 <p align="center">
-  <i>Learning → Building → Solving → Repeating</i>
+  <i>Build things. Break things. Learn. Repeat.</i>
 </p>
